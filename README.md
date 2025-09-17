@@ -1,1 +1,1 @@
-# Audio-Hosting-Public-
+Yeah, hi, this is just here because I wanted a collection of audios I could use in any and all html projects, feel free to also use this, I guess. If you want to add sounds that's fine too, I suppose.
